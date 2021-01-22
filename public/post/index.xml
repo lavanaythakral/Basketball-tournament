@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on NRI Basketball Tournament</title>
+    <title>Posts on </title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on NRI Basketball Tournament</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Jan 2021 17:34:18 +0530</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jan 2021 14:33:18 +0530</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mvp Criteria</title>
+      <link>http://localhost:1313/post/mvp-criteria/</link>
+      <pubDate>Fri, 22 Jan 2021 14:33:18 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/mvp-criteria/</guid>
+      <description>&lt;p&gt;A cumulative normalised score would be calculated for each player based on the points, assists and rebounds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Final Teams</title>
+      <link>http://localhost:1313/post/final-teams/</link>
+      <pubDate>Fri, 22 Jan 2021 14:27:50 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/final-teams/</guid>
+      <description>&lt;p&gt;Reduction in participants count due to various reasons, and internal trading led to some players being shuffled within teams. The final Teams are as follows:&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Schedule</title>
       <link>http://localhost:1313/post/schedule/</link>

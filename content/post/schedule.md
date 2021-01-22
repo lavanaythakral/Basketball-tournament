@@ -10,4 +10,4 @@ The schedule for the tournament is as follows.
 
 
 
-{{<figure src="/images/fixtures.jpg">}}
+{{<figure src="/images/fixtures_trial.jpg">}}
