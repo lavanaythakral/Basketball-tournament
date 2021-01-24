@@ -1,17 +1,16 @@
 ---
 title: "Rules"
 date: 2021-01-21T21:38:52+08:00
-lastmod: 2021-01-21T21:41:52+08:00
-menu: "main"
+draft: false
+author: "Lavanay"
 weight: 50
-
 # you can close something for this content if you open it in config.toml.
 comment: false
 mathjax: false
 ---
 
 To conduct the tournament in a professional manner, we will implement most of the FIBA 3X3 rules.
-
+<!--more-->
 
 **Match Duration** : 8 + 8 minutes (+2 mins OT) Running Clock. The game clock shall only be stopped during free throws.  
 **Match Format** &nbsp; :   3v3  

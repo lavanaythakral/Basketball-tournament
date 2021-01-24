@@ -2,44 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://localhost:1313/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Jan 2021 14:33:18 +0530</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 00:49:25 +0530</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rules</title>
+      <link>/post/rules/</link>
+      <pubDate>Thu, 21 Jan 2021 21:38:52 +0800</pubDate>
+      
+      <guid>/post/rules/</guid>
+      <description>&lt;p&gt;To conduct the tournament in a professional manner, we will implement most of the FIBA 3X3 rules.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Day 2</title>
+      <link>/post/day-2/</link>
+      <pubDate>Mon, 25 Jan 2021 00:49:25 +0530</pubDate>
+      
+      <guid>/post/day-2/</guid>
+      <description>&lt;p&gt;The statistics of Day 2 games are as follows&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Day 1</title>
+      <link>/post/day-1/</link>
+      <pubDate>Mon, 25 Jan 2021 00:13:30 +0530</pubDate>
+      
+      <guid>/post/day-1/</guid>
+      <description>&lt;p&gt;The statistics of Day 1 games are as follows&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Mvp Criteria</title>
-      <link>http://localhost:1313/post/mvp-criteria/</link>
+      <link>/post/mvp-criteria/</link>
       <pubDate>Fri, 22 Jan 2021 14:33:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/post/mvp-criteria/</guid>
+      <guid>/post/mvp-criteria/</guid>
       <description>&lt;p&gt;A cumulative normalised score would be calculated for each player based on the points, assists and rebounds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Final Teams</title>
-      <link>http://localhost:1313/post/final-teams/</link>
+      <link>/post/final-teams/</link>
       <pubDate>Fri, 22 Jan 2021 14:27:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/post/final-teams/</guid>
+      <guid>/post/final-teams/</guid>
       <description>&lt;p&gt;Reduction in participants count due to various reasons, and internal trading led to some players being shuffled within teams. The final Teams are as follows:&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>http://localhost:1313/post/schedule/</link>
+      <link>/post/schedule/</link>
       <pubDate>Wed, 20 Jan 2021 17:34:18 +0530</pubDate>
       
-      <guid>http://localhost:1313/post/schedule/</guid>
+      <guid>/post/schedule/</guid>
       <description>&lt;p&gt;The schedule for the tournament is as follows.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Bidding Session statistics</title>
-      <link>http://localhost:1313/post/bidding-session/</link>
+      <link>/post/bidding-session/</link>
       <pubDate>Wed, 20 Jan 2021 15:39:35 +0530</pubDate>
       
-      <guid>http://localhost:1313/post/bidding-session/</guid>
+      <guid>/post/bidding-session/</guid>
       <description>&lt;p&gt;The Bidding Concluded on 17 Jan 2021. The session statistics are detailed below.&lt;/p&gt;</description>
     </item>
     
